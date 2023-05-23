@@ -1,0 +1,23 @@
+plate: p60
+left number LR: 19
+right number of LR: 30
+left total length(pixel): 1831
+right total length(pixel): 2464
+
+plate: p78
+left number LR: 20
+right number of LR: 19
+left total length(pixel): 2391
+right total length(pixel): 2514
+
+plate: p84
+left number LR: 16
+right number of LR: 12
+left total length(pixel): 2597
+right total length(pixel): 1722
+
+plate: p87
+left number LR: 30
+right number of LR: 26
+left total length(pixel): 3495
+right total length(pixel): 2118

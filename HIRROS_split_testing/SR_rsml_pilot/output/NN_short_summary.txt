@@ -1,0 +1,23 @@
+plate: p55
+left number LR: 44
+right number of LR: 40
+left total length(pixel): 5049
+right total length(pixel): 7627
+
+plate: p58
+left number LR: 51
+right number of LR: 32
+left total length(pixel): 10192
+right total length(pixel): 4729
+
+plate: p61
+left number LR: 41
+right number of LR: 23
+left total length(pixel): 8303
+right total length(pixel): 2149
+
+plate: p79
+left number LR: 35
+right number of LR: 36
+left total length(pixel): 5172
+right total length(pixel): 7480

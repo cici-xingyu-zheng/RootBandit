@@ -1,0 +1,11 @@
+plate: p56
+left number LR: 34
+right number of LR: 33
+left total length(pixel): 4796
+right total length(pixel): 6983
+
+plate: p59
+left number LR: 32
+right number of LR: 46
+left total length(pixel): 3568
+right total length(pixel): 7144
